@@ -1,24 +1,4 @@
-[![Build status](https://github.com/git/git/workflows/CI/badge.svg)](https://github.com/git/git/actions?query=branch%3Amaster+event%3Apush)
-
-
-CVS users may also want to read [Documentation/gitcvs-migration.adoc][]
-(`man gitcvs-migration` or `git help cvs-migration` if git is
-installed).
-
-The user discussion and development of Git take place on the Git
-mailing list -- everyone is welcome to post bug reports, feature
-requests, comments and patches to git@vger.kernel.org (read
-[Documentation/SubmittingPatches][] for instructions on patch submission
-and [Documentation/CodingGuidelines][]).
-
-Those wishing to help with error message, usage and informational message
-string translations (localization l10) should see [po/README.md][]
-(a `po` file is a Portable Object file that holds the translations).
-
-To subscribe to the list, send an email to <git+subscribe@vger.kernel.org>
-(see https://subspace.kernel.org/subscribing.html for details). The mailing
-list archives are available at <https://lore.kernel.org/git/>,
-<https://marc.info/?l=git> and other archival sites.
+[![B
 
 Issues which are security relevant should be disclosed privately to
 the Git Security mailing list <git-security@googlegroups.com>.
